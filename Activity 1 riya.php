@@ -1,14 +1,13 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <title>First PHP Code</title>
+    <title>First php Code in this class</title>
 </head>
 <body>
     <h1>
-        <php
+        <?php
         echo ("Hello World");
         ?>
     </h1>
 </body>
 </html>
-
